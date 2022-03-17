@@ -1,0 +1,22 @@
+{
+  "name": "exercise-list-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandawinter/exercise-list-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandawinter/exercise-list-nodejs/issues"
+  },
+  "homepage": "https://github.com/fernandawinter/exercise-list-nodejs#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
