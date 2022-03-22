@@ -1,6 +1,4 @@
-const { odd, even } = require("prelude-ls");
-
-function getAnEvenOrOddNumber(num) {
+function getTheEvenOrOddIntegerNumber(num) {
 
     if (num % 2 == 0) {
         return "even";
@@ -8,4 +6,4 @@ function getAnEvenOrOddNumber(num) {
         return "odd";
     }
 }
-module.exports = getAnEvenOrOddNumber;
+module.exports = getTheEvenOrOddIntegerNumber;

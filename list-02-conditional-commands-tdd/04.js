@@ -1,4 +1,4 @@
-function getTheNumberAndCalculateItsSquareAndSquareRoot(num) {
+function getThePositiveSquareAndTheSquareRoot(num) {
 
     if (num >= 0) {
         return {
@@ -7,4 +7,4 @@ function getTheNumberAndCalculateItsSquareAndSquareRoot(num) {
         }
     }
 }
-module.exports = getTheNumberAndCalculateItsSquareAndSquareRoot;
+module.exports = getThePositiveSquareAndTheSquareRoot;

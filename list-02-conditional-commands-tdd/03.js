@@ -1,4 +1,4 @@
-function getThePositiveOrNegativeRealNumber(num) {
+function getTheRealSquareOrTheSquareRoot(num) {
 
     if(num >= 0) {
         return Math.sqrt(num);
@@ -6,4 +6,4 @@ function getThePositiveOrNegativeRealNumber(num) {
         return num * num;
     }
 }
-module.exports = getThePositiveOrNegativeRealNumber;
+module.exports = getTheRealSquareOrTheSquareRoot;
